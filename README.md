@@ -7,5 +7,5 @@ https://user-images.githubusercontent.com/57669374/151844148-c324319e-81b7-4a9b-
 ## Install 
 
 ```
-
+git clone https://github.com/Bricefed/Mouse-Paralax.git
 ```
